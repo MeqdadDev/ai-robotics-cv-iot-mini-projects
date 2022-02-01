@@ -1,4 +1,4 @@
-# Mini Projects in AI Robotics, Computer Vision, IoT
+# Mini Projects in AI, Robotics, Computer Vision, IoT
 
 A set of mini projects in AI, Robotics, Computer Vision, NLP and IoT for training courses.
 
